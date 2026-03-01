@@ -22,12 +22,16 @@
   },
   "homepage": "https://github.com/harjotsk03/mountainmadness2026serverside#readme",
   "dependencies": {
+    "@elevenlabs/elevenlabs-js": "^2.37.0",
+    "@google/genai": "^1.43.0",
     "@supabase/supabase-js": "^2.98.0",
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
+    "googleapis": "^171.4.0",
     "jsonwebtoken": "^9.0.3",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "openai": "^6.25.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
